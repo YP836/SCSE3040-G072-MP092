@@ -11,3 +11,13 @@ data/processed/
 
 # Temporary cleaned data
 data/raw/train_clean.csv
+
+# Local DVC environment
+.dvc-venv/
+
+# Private Google Drive OAuth credentials
+gdrive-oauth.json
+gdrive-oauth.json.json
+
+# Local DVC credentials
+.dvc/config.local
