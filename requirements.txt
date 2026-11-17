@@ -1,0 +1,6 @@
+
+pandas==3.0.1
+numpy==2.4.3
+pytest==9.1.1
+PyYAML==6.0.3
+dvc==3.67.1
