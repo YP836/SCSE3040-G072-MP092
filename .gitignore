@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environment
+.venv/
+
+# Generated processed datasets
+data/processed/
+
+# Temporary cleaned data
+data/raw/train_clean.csv
