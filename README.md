@@ -1,0 +1,2 @@
+# SCSE3040-G072-MP092
+SCSE3040 MLOps Mini Project - Group G072
